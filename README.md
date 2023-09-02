@@ -1,3 +1,13 @@
-# rock-paper-scissor-game
-Program for rock-paper-scissors game with the computer.<br>
-Thank you for reading  my code.
+<h1>Rock  🪨  Paper  📄  And Scissors ✄ </h1>
+
+<h2>Language Used 📝 :</h2> C programming language
+
+<h2>Suggestions 💡 :</h2> 
+Any suggestions and pull requests to improve the program are always welcomed !!!
+
+<h2>Thank You for Visiting My Repository : </h2>
+Please do 🌟 this repo if you liked it and share it with others.
+
+<br>
+Made with 💙 , 
+Aryan Sood
